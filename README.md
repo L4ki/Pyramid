@@ -1,0 +1,2 @@
+# Pyramid
+Plasma Desktop Theme
