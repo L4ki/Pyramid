@@ -12,3 +12,8 @@ Changelog: 14.09.2019.
 Added widget: arrows.svg
 
 Modified Icon: battery .svg
+
+Changelog: 03.12.2019.
+-----------------------
+
+Redesigned Theme
