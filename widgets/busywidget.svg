@@ -22,8 +22,8 @@
      type="text/css"
      id="current-color-scheme">
       .ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        
+        stop-
       }
       .ColorScheme-Background {
         color:#eff0f1;
@@ -34,8 +34,8 @@
         stop-color:#3daee9;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        
+        stop-
       }
       .ColorScheme-ViewBackground {
         color:#fcfcfc;
@@ -50,8 +50,8 @@
         stop-color:#3daee9;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        
+        stop-
       }
       .ColorScheme-ButtonBackground {
         color:#eff0f1;
@@ -68,21 +68,21 @@
       </style>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="978"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      id="namedview34"
      showgrid="false"
      inkscape:pagecheckerboard="false"
-     inkscape:zoom="1.0546875"
-     inkscape:cx="25.074976"
-     inkscape:cy="-14.485235"
+     inkscape:zoom="1.4915534"
+     inkscape:cx="156.09809"
+     inkscape:cy="74.627002"
      inkscape:current-layer="svg2"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -91,8 +91,7 @@
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-right="5"
-     fit-margin-bottom="5"
-     showborder="true" />
+     fit-margin-bottom="5" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -110,7 +109,7 @@
      transform="translate(5.6072311,4.7208675)">
     <path
        id="INNER"
-       style="color:#31363b;fill:none;fill-opacity:1;stroke:#7777b1;stroke-width:7.80982971;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#7777b1;stroke-width:7.80982971;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        class="ColorScheme-Text"
        sodipodi:type="arc"
        sodipodi:cx="64.861641"
@@ -118,8 +117,8 @@
        sodipodi:rx="54.540359"
        sodipodi:ry="54.540359"
        sodipodi:start="2.6989795"
-       sodipodi:end="4.0828786"
-       d="M 15.577034,89.101268 A 54.540359,54.540359 0 0 1 32.751055,21.65567"
+       sodipodi:end="3.9949984"
+       d="M 15.577034,89.101268 A 54.540359,54.540359 0 0 1 29.005682,24.644051"
        sodipodi:open="true" />
     <g
        id="g4424"
@@ -142,12 +141,19 @@
        cy="65.765846"
        cx="63.392769"
        class="ColorScheme-Text"
-       style="color:#31363b;fill:none;fill-opacity:1;stroke:#55aaff;stroke-width:3.59730315;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#55aaff;stroke-width:3.59730315;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="OUTER" />
   </g>
   <g
      id="paused"
      transform="translate(3.7464957,3.4803772)">
+    <circle
+       class="ColorScheme-Text"
+       style="fill:none;fill-opacity:1;stroke:#7777b1;stroke-width:7.72024107;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="PAUSEIN"
+       cx="224.77534"
+       cy="65.519623"
+       r="53.914711" />
     <g
        style="stroke-width:6.54099989"
        transform="translate(162.76554,6.6461229)"
@@ -164,5 +170,12 @@
          transform="matrix(0.079592,0,0,0.079592,9.2139,28.078)"
          id="g822" />
     </g>
+    <circle
+       id="PAUSEOUT"
+       style="fill:none;fill-opacity:1;stroke:#55aaff;stroke-width:3.59730315;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       class="ColorScheme-Text"
+       cx="224.77534"
+       cy="65.519623"
+       r="61.678532" />
   </g>
 </svg>

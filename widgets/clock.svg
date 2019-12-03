@@ -39,7 +39,7 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="45.410039"
-     inkscape:cx="110.25002"
+     inkscape:cx="20.500024"
      inkscape:zoom="2.0000001"
      id="base"
      pagecolor="#ffffff"
@@ -50,8 +50,8 @@
      guidetolerance="3"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="977">
+     inkscape:window-width="1920"
+     inkscape:window-height="1027">
     <inkscape:grid
        empspacing="5"
        enabled="true"
@@ -313,7 +313,7 @@
        id="g4368">
       <path
          inkscape:connector-curvature="0"
-         style="opacity:0.5;fill:url(#radialGradient973);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.62745098"
+         style="opacity:0.45;fill:url(#radialGradient973);fill-opacity:1;fill-rule:evenodd;stroke:#7777b1;stroke-width:2.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 199,355 a 92,92 0 0 1 -92,92 92,92 0 0 1 -92,-92 92,92 0 0 1 92,-92 92,92 0 0 1 92,92 z"
          id="path4369" />
     </g>
@@ -729,7 +729,7 @@
        inkscape:connector-curvature="0"
        id="SecondHand-9"
        d="m 484.75,100.00395 c 0,-2.61096 -2.1274,-4.72897 -4.75,-4.72897 -2.62257,0 -4.75,2.11801 -4.75,4.72897 0,1.8712 1.09997,3.48226 2.68479,4.24923 0.008,0.004 -0.008,0.0641 0,0.0685 L 480,183.275 l 1.65217,-78.81624 c 1.81091,-0.66751 3.09783,-2.42062 3.09783,-4.45473 z"
-       style="fill:#7777b1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#55aaff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      id="HourHandShadow"
@@ -825,8 +825,8 @@
      style="opacity:0.01000001;fill:#000000;fill-opacity:0.00392157;stroke:none"
      id="Glass"
      inkscape:label="#Glass"
-     cx="110.49998"
-     cy="110.00001"
+     cx="109.49997"
+     cy="109.50001"
      r="97" />
   <rect
      style="opacity:0.875;fill:#7777b1;fill-opacity:1;stroke:none"
